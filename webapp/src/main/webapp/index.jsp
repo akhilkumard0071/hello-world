@@ -1,2 +1,2 @@
-<h1> My DevOps Project using Ansible </h1>
+<h1> DevOps project using ansible playbook</h1>
 
